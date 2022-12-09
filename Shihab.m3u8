@@ -584,3 +584,23 @@ http://208.86.19.13:81/519.stream/index.m3u8
 http://ip2121.com:8081/live/cnn/playlist.m3u8
 #EXTINF:-1,CNN INTL
 http://175.107.244.52:4455/play/a020/index.m3u8
+#EXTM3U
+#EXTINF:-1,T Sports
+http://tv.maguraplex.net:8000/live/tsports/index.m3u8
+#EXTINF:-1,Sports18
+http://tv.maguraplex.net:8000/live/sports18/index.m3u8
+#EXTINF:-1,Gazi TV
+http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8#EXTINF:-1,MTV HD+ TataSky
+http://iptv12k.com:35461/80203091402/213445/8741
+#EXTINF:-1,MTV HD TataSky
+http://iptv12k.com:35461/80203091402/213445/8739
+#EXTINF:-1,TSN 2 SPORTS
+http://iptv12k.com:35461/80203091402/213445/10810
+#EXTINF:-1,BIEN SPORTS MAX 2
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=1049172&extension=ts&play_token=mPZuQzy9qh
+#EXTINF:-1,BIEN SPORTS MAX 1
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=1049176&extension=ts&play_token=WBjzLZJ5Nu
+#EXTINF:-1,BIEN SPORTS MAX 1
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=1049173&extension=ts&play_token=T3SQ9vpZTf
+#EXTINF:-1,BIEN SPORTS MAX 3
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=1049167&extension=ts&play_token=2mauLR8kGW
