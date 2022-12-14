@@ -123,26 +123,20 @@ http://longstream-03.ajaah.com/PlayBoxTV/Dangal/playlist.m3u8
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
 #EXTINF:-1,DD National
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/index.m3u8
-#EXTINF:-1,DD Retro
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1,E24
 http://208.86.19.13:81/719.stream/index.m3u8
 #EXTINF:-1,India Ahead
 https://d3a9l0u5hgmgjl.cloudfront.net/01.m3u8
 #EXTINF:-1,India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1,NDTV 24x7
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1,NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?@amarnettv.live
 #EXTINF:-1,Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Shemaroo Movies
+#EXTINF:-1,Mouse TV
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1,Sony Entertainment TV HD
 https://tv.googledrivelinks.com/live.php?c=Sony_HD&q=1200&e=.m3u8
-#EXTINF:-1,Sony Kal
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1,Sony Max
 https://tv.googledrivelinks.com/autoq.php?c=Sony_Max_SD&e=.m3u8
 #EXTINF:-1,Bijoy TV
@@ -153,10 +147,6 @@ http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
 #EXTINF:-1,DBC
 http://208.86.19.13:81/614.stream/index.m3u8
-#EXTINF:-1,DBC News
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1,DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1,Deepto TV
 http://208.86.19.13:81/677.stream/index.m3u8
 #EXTINF:-1,Desh Tv
