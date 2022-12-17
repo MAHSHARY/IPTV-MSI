@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1,T-Sports freecatv
+http://103.197.204.248:80/s-1-tsports/index.m3u8
+#EXTINF:-1,GAZI Sports freecatv
+http://103.197.204.248:80/s-2-gtv/index.m3u8
+#EXTINF:-1 ,BEIN SPORT 3 🇬🇧
+http://175.107.244.52:4457/play/a06x/index.m3u8
+#EXTINF:-1 ,Bein Sports 1 English
+http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+#EXTINF:-1 ,beIN Sports 2 English HD 🇬🇧
+http://175.107.244.52:4457/play/a06z/index.m3u8
+#EXTINF:-1 ,Bein Sports 5 Arabic 🇶🇦
+http://175.107.244.52:4457/play/a06y/index.m3u8
+#EXTINF:-1 ,Bein Sports Xtra
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+#EXTINF:-1 ,Bein Sports 🇶🇦
+http://175.107.244.52:4457/play/a070/index.m3u8
+#EXTINF:-1 ,Sony Ten 1 HD Freecatv
+http://172.16.29.250/hls/sonyten1.m3u8
+#EXTINF:-1 ,Sony Ten 2 HD Freecatv
+http://172.16.29.250/hls/sonyten2.m3u8
+#EXTINF:-1 ,Sony Ten 3 HD Freecatv
+http://172.16.29.250/hls/sonyten3.m3u8
+#EXTINF:-1 ,Freecatv World cup
+http://172.16.29.242:8080/fnet/live1/index.m3u8
+#EXTINF:-1 ,Star Sports 2 HD
+http://175.107.244.52:4455/play/a01j/index.m3u8
+#EXTINF:-1 ,Star Sports S 1 HD
+http://175.107.244.52:4455/play/a00t/index.m3u8
+#EXTINF:-1 ,Star Sports S 2 HD
+http://175.107.244.52:4455/play/a00u/index.m3u8
+#EXTINF:-1 ,Sony Ten 1 HD
+http://175.107.244.52:4455/play/a01k/index.m3u8
+#EXTINF:-1 ,Sony Ten 2 HD
+http://175.107.244.52:4455/play/a00v/index.m3u8
+#EXTINF:-1 ,Sony Ten 4
+https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
+#EXTINF:-1 ,Fifa World Cup 2022 TUDN
+http://190.61.102.67:31589/play/a08j/index.m3u8
+#EXTINF:-1 ,Freecatv Arena 1 HD
+http://194.163.179.246/slovenci/sport/arena1hd.m3u8
+#EXTINF:-1 ,Freecatv Bein PREMIUM
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
+#EXTINF:-1 ,Freecatv Diema Sports 3 HD
+http://93.155.227.38:555/m3u8/diemasport3hd.m3u8
+#EXTINF:-1 ,Freecatv Sports 18
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
+#EXTINF:-1 ,Freecatv T Sports 3
+http://103.102.27.173/live/tvfeed1002/index.m3u8
+#EXTINF:-1 ,T Sports 2
+http://dotfli.live/s-1-tsports/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,Gazi TV Freecatv
+http://172.16.29.250/hls/Gazi-TV.m3u8
+#EXTINF:-1 ,Fox Sports freecatv
+http://45.232.210.1:8062/play/a08s/index.m3u8
+#EXTINF:-1 ,Freecatv BAHRAIN|SPORT.1
+http://185.105.4.106:1935/live/Bahrain Sports/playlist.m3u8
+#EXTINF:-1 ,Freecatv ELEVEN SPORTS 1 PL HD
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 ,Freecatv Sony TEN Live
+http://208.86.19.13:81/7122.stream/index.m3u8
+#EXTINF:-1 ,Freecatv webmtelspor
+http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
+#EXTINF:-1 ,freecatv SPORT PREMIUM 1HD
+http://194.163.179.246/slovenci/sport/arena1premiumhd.m3u8
+#EXTINF:-1 ,freecatv SPORT HD
+http://194.163.179.246/slovenci/sport/sporttvhd.m3u8
+#EXTINF:-1 ,World Cup SPORTS PREMIUM
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+#EXTINF:-1 ,QATAR world Cup freecatv
+http://181.176.148.142:8000/play/a009
+#EXTINF:-1 ,SporTV2 4K (QATAR 2)
+http://200.4.96.59:1080/play/a055/index.m3u8
+#EXTINF:-1 ,Live fifa
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 ,Freecatv Turmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 ,Freecatv GaziTV
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:-1 ,Freecatv MTV INDIA 🇮🇳
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Freecatv Extreme.Sports
+http://175.107.244.52:4457/play/a06t/index.m3u8
+#EXTINF:-1 ,Freecatv PTV.SPORTS HD
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1 ,Freecatv Star Sports 2 HD freecatv
+http://172.16.29.250/hls/starsports2.m3u8
+#EXTINF:-1 ,Freecatv Star sports selection 2 HD
+http://172.16.29.250/hls/select2.m3u8
+#EXTINF:-1 ,Freecatv Star sports selection 1 HD
+http://172.16.29.250/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 ,Freecatv Sony Six HD freecatv
+http://172.16.29.250/hls/sonysix.m3u8
+#EXTINF:-1 ,Freecatv MAQ_tv World cup
+http://208.86.19.13:81/517.stream/index.m3u8
+#EXTINF:-1 ,Freecatv Bahrain Sports 1
+http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
+#EXTINF:-1 ,Freecatv Star S Hin 1 HD freecatv
+http://175.107.244.52:4455/play/a01m/index.m3u8
+#EXTINF:-1 ,Freecatv SIX HD
+http://175.107.244.52:4455/play/a01l/index.m3u8
+#EXTINF:-1 ,Freecatv World Cup Sports 18
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
+#EXTINF:-1 ,Freecatv CCTV_16_china
+http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
+#EXTINF:-1 ,Freecatv CCTV5_China
+http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:-1 ,Freecatv QAZsport_live
+http://92.46.127.146:8080/qazsport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Freecatv ARY Pak
+http://208.86.19.13:81/627.stream/index.m3u8
+#EXTINF:-1 ,Freecatv Qatar 2022
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
+#EXTINF:-1 ,Freecatv One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 ,Freecatv Match TV
+http://194.143.148.28/MatchHD/mono.m3u8
+#EXTINF:-1 group-title="TATA SKY",Star Sports 3
+http://172.16.29.250/hls/starsports3.m3u8
+#EXTINF:-1 ,Sports 2
+http://103.102.27.173/live/tvfeed1003/index.m3u8
+#EXTINF:-1 ,Sports 3
+http://103.102.27.173/live/tvfeed1004/index.m3u8
+#EXTINF:-1 ,Sports 4
+http://103.102.27.173/live/tvfeed1005/index.m3u8
+#EXTINF:-1 ,Sports 5
+http://103.102.27.173/live/tvfeed1006/index.m3u8
+#EXTINF:-1 ,T Sports
+https://live.tsports.com/live/tsports_live_720/index.m3u8
